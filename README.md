@@ -250,7 +250,7 @@ long microsecondsToCentimeters(long microseconds) {
 <img src="image.png" width="400">
 
 # OUTPUT:
-<img src="image-1.png" width="400" height="200">
+<img src="image-1.png" width="400" height="250">
 <img src="Screenshot (537).png" width="400">
 
 # RESULT:
